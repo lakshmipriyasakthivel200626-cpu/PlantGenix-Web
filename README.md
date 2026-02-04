@@ -35,3 +35,10 @@ PlantGenix is a biology-based full-stack web application that helps users identi
 npm install
 node server.js
 
+
+---
+## 👩‍💻 Author
+
+Lakshmi Priya S  
+B.E. Computer Science and Engineering  
+Student Project
